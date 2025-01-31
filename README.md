@@ -1,9 +1,9 @@
-Jogo do amigo secreto
+Portifólio Front-End
 
-<h1>Jogo do amigo secreto</h1>
+<h1>Portifólio Front-End</h1>
 
 <h2>�� Sobre</h2>
-<p>Este é um projeto simples de Amigo Secreto desenvolvido em JavaScript, HTML e CSS. O objetivo do jogo é permitir que os usuários adicionem seus amigos, sorteiem os nomes de maneira aleatória e descubram quem são os seus respectivos amigos secretos..</p>
+<p>Este é um projeto simples de um portifólio desenvolvido em JavaScript, HTML e CSS. </p>
 
 ## �� Tecnologias
 <div>
